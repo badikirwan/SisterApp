@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sister App</string>
+    <string name="fullname">Hana Wihardini</string>
+    <string name="course_schedule">Jadwal Kuliah</string>
+    <string name="value_academic">Nilai Semester</string>
+    <string name="exam_card">Kartu Ujian</string>
+    <string name="payment">Pembayaran</string>
+    <string name="calendar_academic">Kalender Akademik</string>
+    <string name="about">Tentang</string>
+    <string name="suggestion"><![CDATA[Kritik & Saran]]></string>
+</resources>
